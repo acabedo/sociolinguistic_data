@@ -2,7 +2,7 @@
 
 Derived data and processing notebooks for the study:
 
-> Cabedo Nebot, A. (*under review*). A Sociolinguistic Approach to Pitch Range and Speech Rate in an Oral Spanish Corpus from Valencia. *Estudios de Fonética Experimental*.
+> XXX (*under review*). A Sociolinguistic Approach to Pitch Range and Speech Rate in an Oral Spanish Corpus from Valencia. *Estudios de Fonética Experimental*.
 
 This repository contains the acoustic measurement tables and the processing pipeline used to extract them from the PRESEEA-Valencia corpus. Raw audio files and verbatim transcriptions are **not shared** here (see below).
 
@@ -152,9 +152,6 @@ Quality filters applied in the paper: phrases with Whisper confidence ≥ 0.80 e
 
 If you use these data or notebooks, please cite the paper (reference to be updated upon acceptance) and acknowledge the PRESEEA-Valencia corpus:
 
-> Gómez Molina, J. R. (2001). *El español hablado de Valencia, I: Materiales para su estudio. Nivel sociocultural alto*. Quaderns de Filologia.
-> Gómez Molina, J. R. (2005). *El español hablado de Valencia. Materiales para su estudio (PRESEEA). II. Nivel sociocultural medio*. Quaderns de Filologia.
-> Gómez Molina, J. R. (2007). *El español hablado de Valencia. Materiales para su estudio (PRESEEA). III. Nivel sociocultural bajo*. Quaderns de Filologia.
 
 ---
 
