@@ -142,7 +142,7 @@ One row per speaker track per recording (180 informants plus interviewers). Summ
 
 1. Run `01_whisper_transcription.ipynb` on your own copy of the PRESEEA-Valencia audio files to obtain the JSON transcripts.
 2. Run `02_forced_alignment.ipynb` to produce TextGrids and the three CSV tables.
-3. Run `analisis_prosodico_v5.R` (included in the full repository released on acceptance) to fit the GLMM models and generate all figures.
+3. Run `analisis_prosodico_v5.R` to fit the GLMM models and generate all figures.
 
 Quality filters applied in the paper: phrases with Whisper confidence ≥ 0.80 enter the pitch-range and articulation-rate models; turns where the median phrase confidence ≥ 0.70 enter the speech-rate model.
 
