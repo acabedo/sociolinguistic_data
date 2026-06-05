@@ -15,6 +15,7 @@ This repository contains the acoustic measurement tables and the processing pipe
 ├── notebooks/
 │   ├── 01_whisper_transcription.ipynb   # Automatic transcription with Whisper
 │   └── 02_forced_alignment.ipynb        # Forced alignment with Montreal Forced Aligner
+├── analisis_prosodico_v5.R              # Prosodic analysis and figures
 ├── ip_measures.csv                      # Intonational-phrase-level measures
 ├── turn_measures.csv                    # Speech-turn-level measures
 ├── speaker_measures.csv                 # Speaker-level summary measures
